@@ -1,5 +1,5 @@
 hchessai ♟️
-hchessai (Human Chess AI) is an experimental UCI-compatible chess engine built around a trained large-scale neural network model. The goal of this project is not only playing strength, but human-like decision making and style.
+hchessai (Human Chess AI) is an experimental UCI-compatible chess engine built around a trained large-scale neural network model. The goal of this project is not only playing strength, but human-like decision making and style. The project use the main work and model from https://github.com/kednaik/large-chess-model
 ________________________________________
 🚀 Project Goals
 •	Build a neural-network-based chess engine from scratch
