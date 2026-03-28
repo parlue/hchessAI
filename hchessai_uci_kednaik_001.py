@@ -9,7 +9,7 @@ import torch
 import torch.nn as nn
 
 ENGINE_NAME = "hchessai"
-ENGINE_AUTHOR = "Dirk D. Sommerfeld"
+ENGINE_AUTHOR = "Dirk D. Sommerfeld / K Naik"
 
 _ALLOWED_STDOUT_PREFIXES = (
     "id ",
