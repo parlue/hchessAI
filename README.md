@@ -99,4 +99,4 @@ ________________________________________
 Created as part of an independent AI + chess engine project.
 ________________________________________
 📜 License
-TBD
+Follow the license of https://github.com/kednaik/large-chess-model
